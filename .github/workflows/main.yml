@@ -9,7 +9,7 @@ on:
       - 'ga-ignore-*'
 
 env:
-  MIRROR_URL: "git@github.com:EpitechPromo2027/B-DOP-200-MPL-2-1-chocolatine-ewan.massonet.git"
+  MIRROR_URL: "https://github.com/NoxLoveYa/idk-nox.git"
   EXECUTABLES: "test"
   
 jobs:
